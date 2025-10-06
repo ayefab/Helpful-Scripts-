@@ -1,0 +1,8 @@
+
+cmd
+
+net stop wuauserv
+
+(to restart the service) 
+
+net start wuauserv

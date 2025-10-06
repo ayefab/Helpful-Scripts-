@@ -1,0 +1,5 @@
+
+
+ * USE PA ACCOUNT*
+
+systeminfo /s:hostname

@@ -1,0 +1,12 @@
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.vbproj.AssemblyReference.cache
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer_Connection.Form1.resources
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer_Connection.Resources.resources
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.vbproj.GenerateResource.cache
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.vbproj.CoreCompileInputs.cache
+C:\Users\hmakomva\source\repos\Printer Connection\bin\Debug\Printer Connection.exe.config
+C:\Users\hmakomva\source\repos\Printer Connection\bin\Debug\Printer Connection.exe
+C:\Users\hmakomva\source\repos\Printer Connection\bin\Debug\Printer Connection.pdb
+C:\Users\hmakomva\source\repos\Printer Connection\bin\Debug\Printer Connection.xml
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.exe
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.xml
+C:\Users\hmakomva\source\repos\Printer Connection\obj\Debug\Printer Connection.pdb

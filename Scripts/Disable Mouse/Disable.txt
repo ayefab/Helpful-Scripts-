@@ -1,0 +1,12 @@
+
+
+$usbDevices = Get-PnpDevice | Where-Object {$_.Class -eq 'MOUSE' -and $_.Status -eq 'OK'}
+
+foreach ($device in $usbDevices) { Disable-PnpDevice -InstanceId $device.InstanceId -Confirm:$false}
+
+<# TO UNDO OR RENABLED THE DISABLED CLASS: 
+
+$usbDevices = Get-PnpDevice | Where-Object {$_.Class -eq 'MOUSE' -and $_.Status -eq 'Error'}
+
+foreach ($device in $usbDevices) { Enable-PnpDevice -InstanceId $device.InstanceId -Confirm:$false}
+#>

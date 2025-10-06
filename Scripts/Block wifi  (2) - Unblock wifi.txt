@@ -1,0 +1,2 @@
+
+netsh wlan delete filter permission=block ssid="name" networktype=infrastructure

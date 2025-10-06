@@ -1,0 +1,6 @@
+
+*Must be compiled in PA account*
+
+  shutdown /r /m \\computername
+
+  shutdown /r /m \\computername /t 60 /c "This is a test, save your work"

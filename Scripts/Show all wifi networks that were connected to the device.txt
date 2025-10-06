@@ -1,0 +1,6 @@
+
+ 'netsh wlan show profile'
+
+To show the password 
+
+ 'netsh wlan show profile "name of wifi" key=clear'

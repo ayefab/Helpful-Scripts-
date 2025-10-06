@@ -1,0 +1,6 @@
+
+run with pa acccount on cmd
+
+msg * /SERVER:computername "TYPE MESSAGE"
+
+MSG * /SERVER:WAM400JEN066 /TIME:60 "Hello WAM400JEN066"

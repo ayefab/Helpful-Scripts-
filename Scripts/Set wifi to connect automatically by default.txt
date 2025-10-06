@@ -1,0 +1,7 @@
+
+
+netsh wlan set profileparameter name= wifi-name connectionmode=auto
+
+to disable wifi from auto connecting on every log on: 
+
+netsh wlan set profileparameter name=wifi-name connectionmode=manual

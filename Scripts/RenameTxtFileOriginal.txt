@@ -1,0 +1,12 @@
+﻿#
+# Script.ps1
+#
+$existingfile = "C:\Users\hmakomva\Desktop\trial\MAKOM.txt"
+
+$today = Get-Date -Format "MMddyyyy"
+
+$newFileName = "C:\Users\hmakomva\Desktop\tRIAL\$today.txt"
+
+Rename-Item -Path $existingfile -NewName $newFileName 
+
+Write-Host "File has been renamed to '$today.txt'"
